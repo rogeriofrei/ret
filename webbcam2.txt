@@ -1,0 +1,10 @@
+
+#EXTM3U
+#EXTINF:-1-Dunas Maspalomas | Gran Canária | Ilhas Canárias 
+https://camserver2.in2thebeach.es/streams/dunas-de-maspalomas-y-playa-del-ingles/index.m3u8
+
+#EXTINF:-1-PLAYA del Ingles LIVECam Maspalomas 
+https://camserver2.in2thebeach.es/streams/dunas-de-maspalomas-y-playa-del-ingles/index.m3u8
+#EXTINF:-1-Webcam mirador Maspalomas by Dunas 
+https://camserver2.in2thebeach.es/streams/mirador-dunas-de-maspalomas/index.m3u8
+
